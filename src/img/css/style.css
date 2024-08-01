@@ -1,0 +1,41 @@
+
+
+.contenedor1{
+margin-left: 30%;
+text-align: center;
+background-color: aqua;
+width: 40%;
+height:40% ;
+}
+
+
+
+.imagen{ 
+
+height:40% ;
+width:40% ;
+margin-right: 30%;
+margin-left: 40%;
+margin-bottom: 80%;
+}
+
+.body{
+
+background-size: 100%;
+background-color: aquamarine;
+}
+
+.titulo{
+
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+
+}
+
+.img1{
+
+height:50% ;
+width:50% ;
+margin-left: 40%;
+
+}
